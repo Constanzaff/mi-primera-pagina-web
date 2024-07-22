@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body { 
     font-family: 'Open Sans', sans-serif;
 }
@@ -125,7 +129,7 @@ margin: 40px 0px 10px 0px;
 
 #eventos-anteriores {
     padding: 10px ;
-    text-align: center;
+    /* text-align: center; */
 }
 
 #eventos-anteriores h2 {
@@ -134,7 +138,7 @@ margin-bottom: px;
 }
 
 #eventos-anteriores div {
-    display: inline-block;
+    /* display: inline-block; */
     margin: 0px 10px;
 }
 
